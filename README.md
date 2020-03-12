@@ -4,7 +4,7 @@ Guided project for **Web API IV** module.
 
 In this project we will learn how to deploy a Web API to `heroku`.
 
-## Prerequisites
+## Prerequisites March 12, 2020
 
 - Sign up for a [heroku](https://www.heroku.com/) free account.
 
